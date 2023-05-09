@@ -5,6 +5,9 @@
 }
 body{
     background-color: red;
+    font-weight: bold;
+    font-family: tahoma;
+    font-size: 25px;
 }
 input{
     width: 200px;
