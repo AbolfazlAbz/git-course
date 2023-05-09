@@ -6,3 +6,8 @@
 body{
     background-color: red;
 }
+input{
+    width: 200px;
+    border: none;
+    background-color: green;
+}
