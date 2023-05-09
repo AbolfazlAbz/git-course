@@ -2,4 +2,8 @@ front end web
 
 im going to a web programmer
 
+<<<<<<< HEAD
 mainbranch
+=======
+test code branch
+>>>>>>> testcode
